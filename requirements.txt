@@ -1,0 +1,11 @@
+ipykernel
+requests
+faiss-cpu
+hf_transfer
+datasets
+smolagents
+langchain
+langchain-text-splitters
+langchain_community
+rank_bm25
+litellm
